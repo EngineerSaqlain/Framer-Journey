@@ -7,10 +7,10 @@
 
 ## Month 1 — Week 1
 
-### Day 1 — [Add Date]
-- ✅ Learned:
-- ❓ Confused by:
-- 🔍 Want to explore:
+### Day 1 — 15/05/2026
+- ✅ Learned: create components and footer
+- ❓ Confused by: Text in a frame to be filled fit or fixed
+- 🔍 Want to explore: testimonials
 
 ### Day 2 — [Add Date]
 - ✅ Learned:
