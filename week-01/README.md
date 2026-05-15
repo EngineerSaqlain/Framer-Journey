@@ -30,7 +30,8 @@ Learning the Framer canvas, layers, typography, spacing, and building my first s
 ---
 
 ## 📝 Key Things I Learned
-- 
+- Add Frames STacks and Components
+- Designs and Text
 - 
 - 
 
