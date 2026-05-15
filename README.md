@@ -1,4 +1,4 @@
-# 🎯 Framer Learning Journey — 0 to Client-Ready in 2 Months
+# Framer Learning Journey — 0 to Client-Ready in 2 Months
 
 > Learning Framer from scratch under senior mentorship — building real, published websites every week with a goal to work with clients by the end of Month 2.
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🙋 About This Repo
+## About This Repo
 
 This repository documents my complete 2-month Framer learning journey — from absolute beginner to client-ready developer. Every week I build a real project, push my progress here, and document what I learn daily.
 
