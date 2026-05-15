@@ -6,7 +6,7 @@ Learning the Framer canvas, layers, typography, spacing, and building my first s
 ---
 
 ## 🔗 Live Framer URL
-> [Add your Framer published link here once live]
+> https://safe-customers-638843.framer.app/
 
 ---
 
