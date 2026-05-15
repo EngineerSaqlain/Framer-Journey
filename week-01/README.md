@@ -15,9 +15,9 @@ Learning the Framer canvas, layers, typography, spacing, and building my first s
 <!-- After taking a screenshot, save it as preview.png in this folder -->
 <!-- Then uncomment the line below -->
 
-<!-- ![Week 1 Preview](./preview.png) -->
+![Week 1 Preview](./preview.png)
 
-> Screenshot coming at end of week
+<!-- > Screenshot coming at end of week -->
 
 ---
 
