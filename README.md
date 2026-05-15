@@ -92,7 +92,7 @@ No zero days. Every day gets a commit.
 
 I'll be sharing updates on LinkedIn starting Week 5 once I have real work to show.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saqlain-Ahmad-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saqlain-ahmad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SAQLAIN%20AHMAD-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saqlain-ahmad)
 
 ---
 
